@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "outDir": "dist",
+    "target": "es5",
+    "sourceMap": true,
+    "allowUnusedLabels": false,
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "pretty": true,
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src"
+  ]
+}

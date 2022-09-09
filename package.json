@@ -9,6 +9,12 @@
   "author": "Matt Evans",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.2"
+    "dotenv": "^16.0.2",
+    "node-fetch": "^3.2.10"
+  },
+  "repository": "https://github.com/mattevans98/DiscordBotTest.git",
+  "private": false,
+  "devDependencies": {
+    "prettier": "^2.7.1"
   }
 }
